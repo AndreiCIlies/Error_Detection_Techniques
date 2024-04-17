@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CyclicRedundancyCheck", "CyclicRedundancyCheck\CyclicRedundancyCheck.pyproj", "{3083F38D-AB81-4363-A979-16E229184020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3083F38D-AB81-4363-A979-16E229184020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3083F38D-AB81-4363-A979-16E229184020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ADCC222-F21C-4D03-9ACB-AB9DD8A9818B}
+	EndGlobalSection
+EndGlobal
