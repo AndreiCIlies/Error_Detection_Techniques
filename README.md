@@ -21,7 +21,7 @@ This project contains implementations of two error detection techniques: Two-Dim
 ### Prerequisites
 
 * Python.
-* Python IDE (e.g., PyCharm, VS Code, or IDLE).
+* Python IDE (e.g., PyCharm, VS, VS Code, or IDLE).
 
 **1. Clone the repository**  
 git clone https://github.com/AndreiCIlies/Error_Detection_Techniques.git
