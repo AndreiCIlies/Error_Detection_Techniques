@@ -23,16 +23,16 @@ This project contains implementations of two error detection techniques: Two-Dim
 * Python.
 * Python IDE (e.g., PyCharm, VS, VS Code, or IDLE).
 
+### Installation
+
 **1. Clone the repository**  
 git clone https://github.com/AndreiCIlies/Error_Detection_Techniques.git
 
 **2. Open the project in the IDE**
 
-**3. Run the application**  
+**3. Run TwoDimensionalParity.py or CyclicRedundancyCheck.py within the IDE**  
 ### Two-Dimensional Parity Check  
-- python TwoDimensionalParity.py
 - Enter a binary message of length multiple of 7 when prompted.
 
-### Cyclic Redundancy Check (CRC)  
-- python CyclicRedundancyCheck.py
+### Cyclic Redundancy Check (CRC)    
 - Enter a binary message and a polynomial when prompted.
